@@ -1,0 +1,12 @@
+html,
+body {
+  overflow-x: hidden;
+  display: block; 
+}
+
+.btn{
+  margin: 5px;
+}
+.details{
+  color: rgb(86, 140, 215);
+}

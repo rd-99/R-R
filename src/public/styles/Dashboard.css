@@ -1,0 +1,26 @@
+
+.card-purple-blue{
+    background: linear-gradient(45deg, rgb(109, 128, 254) 0%, #23D2FD 100%);
+    /* background: linear-gradient( rgba(#6D80FE,1) 0%, rgba(#23D2FD,1) 100%); */
+	box-shadow: 0 5px 20px rgba(#23D2FD,.3)
+}
+
+.card-salmon-pink{
+	background: linear-gradient(45deg, #FF998B 0%, #FF6D88 100%);
+	/* background: linear-gradient(45deg, rgba(#FF998B,1) 0%, rgba(#FF6D88,1) 100%); */
+	box-shadow: 0 5px 20px rgba(#FF998B,.3)
+}
+.card-blue-green{
+	background: linear-gradient(45deg, #09AFE8 0%,#29F499 100%);
+	/* background: linear-gradient(45deg, rgba(#09AFE8,1) 0%, rgba(#29F499,1) 100%); */
+	box-shadow: 0 5px 20px rgba(#29F499,.3)
+}
+.card-purple-pink{
+	background: linear-gradient(45deg, #707CFF 0%, #FA81E8 100%);
+	box-shadow: 0 5px 20px rgba(#FA81E8,.3)
+}
+.card{
+	border: 0;
+	border-radius: 10px;
+    width:15rem;
+	}
